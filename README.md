@@ -14,9 +14,9 @@ The display effect is as follows:
 
 ![](https://github.com/FreshmanJay/react-typescript-react-admin-practice/blob/2192210a427758ab437cbfdb238f26f81146c7bc/src/assets/pic_04.png?raw=true)
 
-![](https://github.com/FreshmanJay/react-typescript-react-admin-practice/blob/2192210a427758ab437cbfdb238f26f81146c7bc/src/assets/pic_05.png?raw=true)
+![](https://github.com/FreshmanJay/react-typescript-react-admin-practice/blob/763c4ad78491162c827406e816a4151e99c16738/src/assets/pic_05.png?raw=true)
 
-![](https://github.com/FreshmanJay/react-typescript-react-admin-practice/blob/2192210a427758ab437cbfdb238f26f81146c7bc/src/assets/pic_06.png?raw=true)
+![](https://github.com/FreshmanJay/react-typescript-react-admin-practice/blob/39df1468c107cc392792b7f0dbf54eefc82fbcff/src/assets/pic_06.png?raw=true)
 
 参考资料：
 

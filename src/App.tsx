@@ -5,7 +5,8 @@ import BarChartIcon from '@mui/icons-material/BarChart';
 import { Admin, CustomRoutes, Layout, Menu, MenuProps, LayoutProps } from 'react-admin';
 
 import mockDataProvider from './providers/mockDataProvider';
-
+import { authProvider } from './providers/authProvider';
+ 
 import { Dashboard } from './components/Dashboard';
 import { TablePage } from './components/TablePage';
 
@@ -24,7 +25,7 @@ export const MyLayout: React.FC<LayoutProps> = ({ children, ...rest }) => (
 );
 
 const App: React.FC = () => (
-  <Admin layout={MyLayout} dataProvider={mockDataProvider}>
+  <Admin layout={MyLayout} dataProvider={mockDataProvider} authProvider={authProvider}>
     <CustomRoutes>
       <Route path="/dashboard" element={<Dashboard />} />
     </CustomRoutes>

@@ -6,6 +6,8 @@ This is a repository for practicing react-admin, react, typescript project.
 展示效果如下：
 The display effect is as follows:
 
+![](https://github.com/FreshmanJay/react-typescript-react-admin-practice/blob/9e9d85f10b299577c4fa7489b4fe76a2e94de22e/src/assets/pic_07.png?raw=true)
+
 ![](https://github.com/FreshmanJay/react-typescript-react-admin-practice/blob/2192210a427758ab437cbfdb238f26f81146c7bc/src/assets/pic_01.png?raw=true)
 
 ![](https://github.com/FreshmanJay/react-typescript-react-admin-practice/blob/2192210a427758ab437cbfdb238f26f81146c7bc/src/assets/pic_02.png?raw=true)
